@@ -9,16 +9,21 @@
   "author": "TobiBiotex",
   "license": "GPL3",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.4",
+    "body-parser": "^1.19.2",
     "canvas": "^2.8.0",
     "cpu-stat": "^2.0.1",
     "date.format": "^1.1.2",
     "discord.js": "^13.1.0",
+    "express": "^4.17.3",
     "moment": "^2.29.1",
     "mongoose": "^5.13.4",
+    "node-fetch": "^2.6.7",
     "node-schedule": "^2.0.0",
+    "path": "^0.12.7",
     "signale-logger": "^1.5.1",
     "superagent": "^6.1.0",
+    "url": "^0.11.0",
     "winston": "^3.3.3"
   }
 }
